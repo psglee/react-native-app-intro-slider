@@ -209,7 +209,7 @@ const styles = StyleSheet.create({
     height: 16,
     margin: 16,
     flexDirection: 'row',
-    justifyContent: 'center',
+    justifyContent: 'flex-start',
     alignItems: 'center',
   },
   dot: {
